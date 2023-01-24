@@ -1,4 +1,4 @@
-package demo;
+package {{cookiecutter.__package}};
 
 public class Main {
     public static void main(String[] args) {
